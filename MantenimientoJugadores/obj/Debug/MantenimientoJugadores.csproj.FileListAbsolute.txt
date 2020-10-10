@@ -1,0 +1,39 @@
+c:\users\michael asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\MantenimientoJugadores\bin\Debug\MantenimientoJugadores.exe.config
+c:\users\michael asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\MantenimientoJugadores\bin\Debug\MantenimientoJugadores.exe
+c:\users\michael asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\MantenimientoJugadores\bin\Debug\MantenimientoJugadores.pdb
+c:\users\michael asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\MantenimientoJugadores\bin\Debug\EjemploListaEnlazada2.dll
+c:\users\michael asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\MantenimientoJugadores\bin\Debug\EjemploListaEnlazada2.pdb
+c:\users\michael asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\MantenimientoJugadores\obj\Debug\MantenimientoJugadores.csprojAssemblyReference.cache
+c:\users\michael asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\MantenimientoJugadores\obj\Debug\MantenimientoJugadores.Form1.resources
+c:\users\michael asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\MantenimientoJugadores\obj\Debug\MantenimientoJugadores.Properties.Resources.resources
+c:\users\michael asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\MantenimientoJugadores\obj\Debug\MantenimientoJugadores.csproj.GenerateResource.cache
+c:\users\michael asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\MantenimientoJugadores\obj\Debug\MantenimientoJugadores.csproj.CoreCompileInputs.cache
+c:\users\michael asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\MantenimientoJugadores\obj\Debug\MantenimientoJugadores.csproj.CopyComplete
+c:\users\michael asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\MantenimientoJugadores\obj\Debug\MantenimientoJugadores.exe
+c:\users\michael asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\MantenimientoJugadores\obj\Debug\MantenimientoJugadores.pdb
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Aseguramiento de la Calidad\PruebasUnitariasCompleto\EjemploListaEnlazada2\MantenimientoJugadores\bin\Debug\MantenimientoJugadores.exe.config
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Aseguramiento de la Calidad\PruebasUnitariasCompleto\EjemploListaEnlazada2\MantenimientoJugadores\bin\Debug\MantenimientoJugadores.exe
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Aseguramiento de la Calidad\PruebasUnitariasCompleto\EjemploListaEnlazada2\MantenimientoJugadores\bin\Debug\MantenimientoJugadores.pdb
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Aseguramiento de la Calidad\PruebasUnitariasCompleto\EjemploListaEnlazada2\MantenimientoJugadores\bin\Debug\EjemploListaEnlazada2.dll
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Aseguramiento de la Calidad\PruebasUnitariasCompleto\EjemploListaEnlazada2\MantenimientoJugadores\bin\Debug\EjemploListaEnlazada2.pdb
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Aseguramiento de la Calidad\PruebasUnitariasCompleto\EjemploListaEnlazada2\MantenimientoJugadores\obj\Debug\MantenimientoJugadores.csprojAssemblyReference.cache
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Aseguramiento de la Calidad\PruebasUnitariasCompleto\EjemploListaEnlazada2\MantenimientoJugadores\obj\Debug\MantenimientoJugadores.Form1.resources
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Aseguramiento de la Calidad\PruebasUnitariasCompleto\EjemploListaEnlazada2\MantenimientoJugadores\obj\Debug\MantenimientoJugadores.Properties.Resources.resources
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Aseguramiento de la Calidad\PruebasUnitariasCompleto\EjemploListaEnlazada2\MantenimientoJugadores\obj\Debug\MantenimientoJugadores.csproj.GenerateResource.cache
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Aseguramiento de la Calidad\PruebasUnitariasCompleto\EjemploListaEnlazada2\MantenimientoJugadores\obj\Debug\MantenimientoJugadores.csproj.CoreCompileInputs.cache
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Aseguramiento de la Calidad\PruebasUnitariasCompleto\EjemploListaEnlazada2\MantenimientoJugadores\obj\Debug\MantenimientoJugadores.csproj.CopyComplete
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Aseguramiento de la Calidad\PruebasUnitariasCompleto\EjemploListaEnlazada2\MantenimientoJugadores\obj\Debug\MantenimientoJugadores.exe
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Aseguramiento de la Calidad\PruebasUnitariasCompleto\EjemploListaEnlazada2\MantenimientoJugadores\obj\Debug\MantenimientoJugadores.pdb
+E:\CodigoEjemplo\EjemploListaEnlazada2\MantenimientoJugadores\bin\Debug\MantenimientoJugadores.exe.config
+E:\CodigoEjemplo\EjemploListaEnlazada2\MantenimientoJugadores\bin\Debug\MantenimientoJugadores.exe
+E:\CodigoEjemplo\EjemploListaEnlazada2\MantenimientoJugadores\bin\Debug\MantenimientoJugadores.pdb
+E:\CodigoEjemplo\EjemploListaEnlazada2\MantenimientoJugadores\bin\Debug\EjemploListaEnlazada2.dll
+E:\CodigoEjemplo\EjemploListaEnlazada2\MantenimientoJugadores\bin\Debug\EjemploListaEnlazada2.pdb
+E:\CodigoEjemplo\EjemploListaEnlazada2\MantenimientoJugadores\obj\Debug\MantenimientoJugadores.csprojAssemblyReference.cache
+E:\CodigoEjemplo\EjemploListaEnlazada2\MantenimientoJugadores\obj\Debug\MantenimientoJugadores.Form1.resources
+E:\CodigoEjemplo\EjemploListaEnlazada2\MantenimientoJugadores\obj\Debug\MantenimientoJugadores.Properties.Resources.resources
+E:\CodigoEjemplo\EjemploListaEnlazada2\MantenimientoJugadores\obj\Debug\MantenimientoJugadores.csproj.GenerateResource.cache
+E:\CodigoEjemplo\EjemploListaEnlazada2\MantenimientoJugadores\obj\Debug\MantenimientoJugadores.csproj.CoreCompileInputs.cache
+E:\CodigoEjemplo\EjemploListaEnlazada2\MantenimientoJugadores\obj\Debug\MantenimientoJugadores.csproj.CopyComplete
+E:\CodigoEjemplo\EjemploListaEnlazada2\MantenimientoJugadores\obj\Debug\MantenimientoJugadores.exe
+E:\CodigoEjemplo\EjemploListaEnlazada2\MantenimientoJugadores\obj\Debug\MantenimientoJugadores.pdb

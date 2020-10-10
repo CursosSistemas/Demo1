@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>MantenimientoJugadores</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>0ddc87c8-719f-4c6b-b613-7f5041548beb</ProjectGuid>
+  <FullPath>E:\CodigoEjemplo\EjemploListaEnlazada2\MantenimientoJugadores\MantenimientoJugadores.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="E:\CodigoEjemplo\EjemploListaEnlazada2\.sonarqube\out\1\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePath">E:\CodigoEjemplo\EjemploListaEnlazada2\MantenimientoJugadores\bin\Debug\MantenimientoJugadores.exe.RoslynCA.json|E:\CodigoEjemplo\EjemploListaEnlazada2\MantenimientoJugadores\bin\Debug\MantenimientoJugadores.exe.RoslynCA.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPath">E:\CodigoEjemplo\EjemploListaEnlazada2\.sonarqube\out\1</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+</ProjectInfo>

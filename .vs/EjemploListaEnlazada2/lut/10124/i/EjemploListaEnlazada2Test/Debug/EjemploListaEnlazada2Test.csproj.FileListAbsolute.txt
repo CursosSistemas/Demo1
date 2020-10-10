@@ -1,0 +1,8 @@
+C:\Users\Michael Asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\.vs\EjemploListaEnlazada2\lut\0\b\EjemploListaEnlazada2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Michael Asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\.vs\EjemploListaEnlazada2\lut\0\b\EjemploListaEnlazada2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Michael Asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\.vs\EjemploListaEnlazada2\lut\0\b\EjemploListaEnlazada2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Michael Asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\.vs\EjemploListaEnlazada2\lut\0\b\EjemploListaEnlazada2Test\bin\Debug\EjemploListaEnlazada2Test.dll
+C:\Users\Michael Asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\.vs\EjemploListaEnlazada2\lut\0\i\EjemploListaEnlazada2Test\Debug\EjemploListaEnlazada2Test.csproj.CoreCompileInputs.cache
+C:\Users\Michael Asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\.vs\EjemploListaEnlazada2\lut\0\i\EjemploListaEnlazada2Test\Debug\EjemploListaEnlazada2Test.csproj.CopyComplete
+C:\Users\Michael Asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\.vs\EjemploListaEnlazada2\lut\0\i\EjemploListaEnlazada2Test\Debug\EjemploListaEnlazada2Test.dll
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Aseguramiento de la Calidad\PruebasUnitariasBase\EjemploListaEnlazada2\.vs\EjemploListaEnlazada2\lut\0\i\EjemploListaEnlazada2Test\Debug\EjemploListaEnlazada2Test.dll

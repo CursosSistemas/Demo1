@@ -1,0 +1,18 @@
+c:\users\michael asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\EjemploListaEnlazada2\bin\Debug\EjemploListaEnlazada2.dll
+c:\users\michael asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\EjemploListaEnlazada2\bin\Debug\EjemploListaEnlazada2.pdb
+c:\users\michael asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\EjemploListaEnlazada2\obj\Debug\EjemploListaEnlazada2.csprojAssemblyReference.cache
+c:\users\michael asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\EjemploListaEnlazada2\obj\Debug\EjemploListaEnlazada2.csproj.CoreCompileInputs.cache
+c:\users\michael asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\EjemploListaEnlazada2\obj\Debug\EjemploListaEnlazada2.dll
+c:\users\michael asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\EjemploListaEnlazada2\obj\Debug\EjemploListaEnlazada2.pdb
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Aseguramiento de la Calidad\PruebasUnitariasCompleto\EjemploListaEnlazada2\EjemploListaEnlazada2\bin\Debug\EjemploListaEnlazada2.dll
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Aseguramiento de la Calidad\PruebasUnitariasCompleto\EjemploListaEnlazada2\EjemploListaEnlazada2\bin\Debug\EjemploListaEnlazada2.pdb
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Aseguramiento de la Calidad\PruebasUnitariasCompleto\EjemploListaEnlazada2\EjemploListaEnlazada2\obj\Debug\EjemploListaEnlazada2.csproj.CoreCompileInputs.cache
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Aseguramiento de la Calidad\PruebasUnitariasCompleto\EjemploListaEnlazada2\EjemploListaEnlazada2\obj\Debug\EjemploListaEnlazada2.dll
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Aseguramiento de la Calidad\PruebasUnitariasCompleto\EjemploListaEnlazada2\EjemploListaEnlazada2\obj\Debug\EjemploListaEnlazada2.pdb
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Aseguramiento de la Calidad\PruebasUnitariasCompleto\EjemploListaEnlazada2\EjemploListaEnlazada2\obj\Debug\EjemploListaEnlazada2.csprojAssemblyReference.cache
+E:\CodigoEjemplo\EjemploListaEnlazada2\EjemploListaEnlazada2\bin\Debug\EjemploListaEnlazada2.dll
+E:\CodigoEjemplo\EjemploListaEnlazada2\EjemploListaEnlazada2\bin\Debug\EjemploListaEnlazada2.pdb
+E:\CodigoEjemplo\EjemploListaEnlazada2\EjemploListaEnlazada2\obj\Debug\EjemploListaEnlazada2.csprojAssemblyReference.cache
+E:\CodigoEjemplo\EjemploListaEnlazada2\EjemploListaEnlazada2\obj\Debug\EjemploListaEnlazada2.csproj.CoreCompileInputs.cache
+E:\CodigoEjemplo\EjemploListaEnlazada2\EjemploListaEnlazada2\obj\Debug\EjemploListaEnlazada2.dll
+E:\CodigoEjemplo\EjemploListaEnlazada2\EjemploListaEnlazada2\obj\Debug\EjemploListaEnlazada2.pdb

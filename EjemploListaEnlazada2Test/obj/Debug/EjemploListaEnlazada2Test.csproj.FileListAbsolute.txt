@@ -1,0 +1,27 @@
+C:\Users\Michael Asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\EjemploListaEnlazada2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Michael Asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\EjemploListaEnlazada2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Michael Asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\EjemploListaEnlazada2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Michael Asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\EjemploListaEnlazada2Test\bin\Debug\EjemploListaEnlazada2Test.dll
+C:\Users\Michael Asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\EjemploListaEnlazada2Test\bin\Debug\EjemploListaEnlazada2Test.pdb
+C:\Users\Michael Asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\EjemploListaEnlazada2Test\bin\Debug\EjemploListaEnlazada2.dll
+C:\Users\Michael Asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\EjemploListaEnlazada2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Michael Asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\EjemploListaEnlazada2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Michael Asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\EjemploListaEnlazada2Test\bin\Debug\EjemploListaEnlazada2.pdb
+C:\Users\Michael Asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\EjemploListaEnlazada2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Michael Asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\EjemploListaEnlazada2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Michael Asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\EjemploListaEnlazada2Test\obj\Debug\EjemploListaEnlazada2Test.csprojAssemblyReference.cache
+C:\Users\Michael Asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\EjemploListaEnlazada2Test\obj\Debug\EjemploListaEnlazada2Test.csproj.CoreCompileInputs.cache
+C:\Users\Michael Asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\EjemploListaEnlazada2Test\obj\Debug\EjemploListaEnlazada2Test.csproj.CopyComplete
+C:\Users\Michael Asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\EjemploListaEnlazada2Test\obj\Debug\EjemploListaEnlazada2Test.dll
+C:\Users\Michael Asturias\documents\visual studio 2017\Projects\EjemploListaEnlazada2\EjemploListaEnlazada2Test\obj\Debug\EjemploListaEnlazada2Test.pdb
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Aseguramiento de la Calidad\PruebasUnitariasCompleto\EjemploListaEnlazada2\EjemploListaEnlazada2Test\bin\Debug\EjemploListaEnlazada2.dll
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Aseguramiento de la Calidad\PruebasUnitariasCompleto\EjemploListaEnlazada2\EjemploListaEnlazada2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Aseguramiento de la Calidad\PruebasUnitariasCompleto\EjemploListaEnlazada2\EjemploListaEnlazada2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Aseguramiento de la Calidad\PruebasUnitariasCompleto\EjemploListaEnlazada2\EjemploListaEnlazada2Test\bin\Debug\EjemploListaEnlazada2.pdb
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Aseguramiento de la Calidad\PruebasUnitariasCompleto\EjemploListaEnlazada2\EjemploListaEnlazada2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Aseguramiento de la Calidad\PruebasUnitariasCompleto\EjemploListaEnlazada2\EjemploListaEnlazada2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Aseguramiento de la Calidad\PruebasUnitariasCompleto\EjemploListaEnlazada2\EjemploListaEnlazada2Test\obj\Debug\EjemploListaEnlazada2Test.csprojAssemblyReference.cache
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Aseguramiento de la Calidad\PruebasUnitariasCompleto\EjemploListaEnlazada2\EjemploListaEnlazada2Test\obj\Debug\EjemploListaEnlazada2Test.csproj.CoreCompileInputs.cache
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Aseguramiento de la Calidad\PruebasUnitariasCompleto\EjemploListaEnlazada2\EjemploListaEnlazada2Test\obj\Debug\EjemploListaEnlazada2Test.csproj.CopyComplete
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Aseguramiento de la Calidad\PruebasUnitariasCompleto\EjemploListaEnlazada2\EjemploListaEnlazada2Test\obj\Debug\EjemploListaEnlazada2Test.dll
+C:\Users\Michael Asturias\Google Drive\Catedra Universidad\Aseguramiento de la Calidad\PruebasUnitariasCompleto\EjemploListaEnlazada2\EjemploListaEnlazada2Test\obj\Debug\EjemploListaEnlazada2Test.pdb

@@ -1,0 +1,6 @@
+File name	Line	Function	Duration[ms]	Explored nodes
+E:\CodigoEjemplo\EjemploListaEnlazada2\EjemploListaEnlazada2\Estudiante.cs	46	_EjemploListaEnlazada2.Estudiante.Equals$object$	0	4
+E:\CodigoEjemplo\EjemploListaEnlazada2\EjemploListaEnlazada2\Estudiante.cs	60	_EjemploListaEnlazada2.Estudiante.GetHashCode$$	0	2
+E:\CodigoEjemplo\EjemploListaEnlazada2\EjemploListaEnlazada2\Estudiante.cs	65	_EjemploListaEnlazada2.Estudiante.EstudianteValido$$	0	47
+E:\CodigoEjemplo\EjemploListaEnlazada2\EjemploListaEnlazada2\Lista.cs	18	_EjemploListaEnlazada2.Lista.InsertarInicioLista$object$	0	3
+E:\CodigoEjemplo\EjemploListaEnlazada2\EjemploListaEnlazada2\Lista.cs	26	_EjemploListaEnlazada2.Lista.buscarLista$object$	1	503
